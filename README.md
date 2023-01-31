@@ -19,6 +19,7 @@
 ### Links
 
 - Solution URL: [Source Code](https://github.com/DanielAbrante/qr-code-component.git)
+- Live Site URL: [Demo](https://danielabrante.github.io/qr-code-component/)
 
 ## My process
 
